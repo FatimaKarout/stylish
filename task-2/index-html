@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>My Website</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+<body>
+<header>
+<h1>my website</h1>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+    </header>
+    <main>
+    <h2>ABout Me</h2>
+    <P> welcome to my website</p>
+    <h2>contact info</h2>
+    <p> Email: contact@example.com</p>
+    <p> Phone:123-456-7890</p>
+
+        </h2> 
+        <footer>
+            <p>&copy; 2023 My Website. All rights reserved.</p>
+        </footer>
+    
+
+</body>
+</html>

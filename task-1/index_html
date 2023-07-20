@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>first page</title>
+	<style>
+		body {
+			background-color: black;
+		}
+		h2 {
+			color: green;
+		}
+		p {
+			color: black;
+			background-color: red;
+		}
+	</style>
+</head>
+<body>
+
+	<h2>first page</h2>
+
+	<p>Regular exercise is essential for maintaining good physical and mental health. Exercise helps to strengthen the muscles and bones, improve cardiovascular health, and boost the immune system. It can also help to reduce stress, anxiety, and depression by releasing endorphins, the body's natural "feel-good" chemicals. Additionally, exercise can improve cognitive function and memory, which can have a positive impact on academic and professional performance. Overall, incorporating exercise into one's daily routine is a simple and effective way to promote overall health and well-being.
+
+
+        .</p>
+
+</body>
+</html>

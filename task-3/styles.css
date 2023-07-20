@@ -1,0 +1,10 @@
+.body {
+    border: 1px solid black; 
+    top: 10px;
+    left: 38%;
+    position: absolute;
+    padding: 0 15px 15px 15px;
+}
+.title{
+text-align: center;
+}

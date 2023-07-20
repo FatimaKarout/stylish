@@ -1,0 +1,32 @@
+header {
+    background-color: rgb(59, 59, 255);
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding-left: 20px;
+  }
+  
+  footer {
+    background-color: rgb(59, 59, 255);
+    color: white;
+    text-align: center;
+    padding: 1px;
+  }
+  
